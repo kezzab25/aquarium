@@ -1,4 +1,4 @@
-aquarium
+Aquarium
 ========
 
 Aquarium
